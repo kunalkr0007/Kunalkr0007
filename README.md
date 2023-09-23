@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [at github]()
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kunalkr0007)
 
 - 📫 How to reach me **kunalkr0007@gmail.com**
 
