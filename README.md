@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate Web Developer from Patna,Bihar</h3>
 
-- 🔭 I’m currently working on **iDiscuss forum site**
+- 🔭 I’m currently working on **Sellify - Buy/Sell used products online**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kunalkr0007)
 
